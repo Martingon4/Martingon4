@@ -1,0 +1,16 @@
+/* colors.css */
+body {
+    background-color: #34db5ebd; 
+}
+#canvas1{
+    margin: 20px; 
+    border: 1px solid #000; 
+}
+#canvas2{
+    margin: 20px;
+    border: 1px solid #000;
+}
+#canvas2{
+ margin : 20px;
+ border:1px solid #000;
+}
